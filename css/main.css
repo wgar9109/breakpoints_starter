@@ -1,0 +1,33 @@
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width: 768px) {
+  body {
+    background: peachpuff;
+
+  }
+}
+
+h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 32px;
+  text-decoration: underline;
+  display: block;
+  text-align: left;
+
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width: 1200px) {
+  body {
+    background: gold
+  }
+  h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 56px;
+    text-decoration: underline;
+    display: block;
+    max-width:1200px;
+    text-align: center;
+  
+  }
+  
+}
