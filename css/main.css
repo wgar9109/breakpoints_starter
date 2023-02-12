@@ -29,5 +29,12 @@ h1 {
     text-align: center;
   
   }
+  p {
+    font-family: 'Zeyada', cursive;
+    font-size: 38px;
+    text-align: inherit;
+    display:inline-flex;
+    color: crimson;
+  }
   
 }
